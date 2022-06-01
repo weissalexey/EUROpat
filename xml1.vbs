@@ -3,7 +3,7 @@ Dim doc
 Dim xmlString 
 Dim nodes
 'xmlString = "<?xml version='1.0'?><Result><PersonID>991166187</PersonID><AddressID>1303836</AddressID></Result>"
-xmlString = "c:\Users\weiss\Desktop\123.xml"
+xmlString = "123.xml"
 
 Set doc = CreateObject("MSXML2.DOMDocument")
 'Load the XML file
