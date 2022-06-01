@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Result>
+<PersonID>991166187</PersonID>
+<adrID>991166187</adrID>
+<belegID>
+	<adr1ID>991166187</adr1ID>
+	<adr2ID>
+		<ID>991166187</ID>
+		</adr2ID>
+</belegID>
+<belegID>
+	<adr1ID>991166187</adr1ID>
+	<adr2ID>
+		<ID>3</ID>
+		</adr2ID>
+</belegID>
+<belegID>
+	<adr1ID>991166187</adr1ID>
+	<adr2ID>
+		<ID>2</ID>
+		</adr2ID>
+</belegID>
+<belegID>
+	<adr1ID>991166187</adr1ID>
+	<adr2ID>
+		<ID>1</ID>
+		</adr2ID>
+</belegID>
+
+</Result>
